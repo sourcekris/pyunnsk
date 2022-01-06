@@ -33,7 +33,8 @@ Reverse engineering of the format I found:
 
 - 3 byte file signature: "NSK"
 - 4 byte integer - Compressed data size
-- 5 bytes unknown, probably 0x8 and 0x9 are something like CRC16
+- 5 bytes unknown, usually:
+  - '\x20\x??\x??\x26\x54'
 - 4 byte integer - Uncompressed data size
 - 1 byte filename length
 - n bytes Filename 
