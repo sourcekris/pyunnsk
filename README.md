@@ -1,4 +1,4 @@
-## uncmz - extractor for NaShrinK NSK files
+## unnsk - extractor for NaShrinK NSK files
 
 Probably a proprietary format by Nashsoft Systems of Bangalore, India. These files are DCL 
 imploded with some basic header.
