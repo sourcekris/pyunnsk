@@ -1,3 +1,11 @@
+#### Deprecated
+
+This repo is deprecated, replaced by a Golang version of the same thing which is easier
+to maintain and release binaries of. See here for more details: https://github.com/sourcekris/unnsk
+
+See here for binary releases:
+ - https://github.com/sourcekris/unnsk/releases/latest
+
 ## unnsk - extractor for NaShrinK NSK files
 
 Probably a proprietary format by Nashsoft Systems of Bangalore, India. These files are DCL 
